@@ -1,4 +1,4 @@
-<img width="890" height="710" alt="fktuppkre7p51" src="https://github.com/user-attachments/assets/5229ca36-c51a-49af-8806-2c89a3a2f514" />
+
 <!--
 **Jakub8b/Jakub8b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
